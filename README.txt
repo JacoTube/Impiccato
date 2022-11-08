@@ -1,9 +1,6 @@
 ### Dati Personali
-1. [Nome]: Jacopo Pio Vicchio
-2. [Matricola]: 230566
-3. [Corso di Laurea]: Ingegnria Informatica
-4. [Nome Progetto]: Impiccato by JacoTube
-5. [Contatti]: vccjpp02h20c349x@studenti.unical.it, jacopovicchio02@gmail.com
+[Nome Progetto]: Impiccato by JacoTube
+[Contatti]: jacopovicchio02@gmail.com
 
 ### Info Generali
 Il programma è una versione in Python del famoso gioco dell'impiccato, il quale consiste nell'indovinare una parola, conoscendone inzialmente solo la lunghezza e provando gradualmente 
