@@ -191,7 +191,7 @@ def gioca_ancora():        #funzione che si occupa di chiedere all'utente se des
         if scelta == 1:
             ciclo = False
             os.system('cls')
-            main()
+            gioco()
         elif scelta == 2:
             ciclo = False
             os.system('cls')
@@ -201,7 +201,7 @@ def gioca_ancora():        #funzione che si occupa di chiedere all'utente se des
             os.system('cls')
             print("Devi inserire un'opzione valida!")
 
-def main():           #funzione main che si occopa di far scegliere all'utente la difficoltà desiderata
+def gioco():           #funzione che si occopa di far scegliere all'utente la difficoltà desiderata
     print('\n')
     print("0 - Facile (1.000 Parole)")
     print("1 - Medio (60.000 Parole)")
@@ -214,4 +214,4 @@ def main():           #funzione main che si occopa di far scegliere all'utente l
 
 os.system('cls')
 print("Benevenuto nel gioco dell'Impiccato!")
-main()
+gioco()
